@@ -1,0 +1,11 @@
+*~
+*.DS_Store
+*.log
+*.out
+*.o
+*.d
+*.swp
+color.txt
+*/color.txt
+bin/*
+input/*
