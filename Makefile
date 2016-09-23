@@ -1,4 +1,4 @@
-#EXE=vec_mult
+#EXE=vecmul
 #EXE=laplace2d-03
 EXE=matmul
 all:
